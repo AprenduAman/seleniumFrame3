@@ -21,6 +21,7 @@ public class Bejbjebj {
     public void runTest() {
         System.out.println("Running test class: " + className);
         System.out.println("Sub ID: " + subid);
+        System.out.println("Sub ID: " + subid);
 
         // Placeholder for test logic, currently no logic is implemented
         boolean testStatus = performTest();
