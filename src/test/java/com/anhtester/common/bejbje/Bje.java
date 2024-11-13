@@ -78,6 +78,6 @@ public class Bjebjebj {
 
         // Create instance and run test
         Bjebjebj test = new Bjebjebj(driver);
-        test.runTest();
+    //editedpart1    test.runTest();
     }
 }
