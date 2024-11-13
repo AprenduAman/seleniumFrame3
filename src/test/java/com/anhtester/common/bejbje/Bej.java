@@ -79,6 +79,6 @@ public class Bejbjebj {
 
         // Create instance and run test
         Bejbjebj test = new Bejbjebj(driver);
-   //editedContent     test.runTest();
+   //editedContentpart2     test.runTest();
     }
 }
